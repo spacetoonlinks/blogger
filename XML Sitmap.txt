@@ -1,0 +1,96 @@
+
+ في حالة عندك مشاركات او تدوينات في موقعك من 1 الي 100 تدوينة تضيف 
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+ في حالة عندك مشاركات او تدوينات في موقعك أكثر من 100 تدوينة تضيف
+ /atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+في حالة عندك مشاركات او تدوينات في موقعك أكثر من 200 تدوينة تضيف
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=301&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+في حالة عندك مشاركات او تدوينات في موقعك أكثر من 300 تدوينة تضيف
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=301&max-results=100
+/atom.xml?redirect=false&start-index=401&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+في حالة عندك مشاركات او تدوينات في موقعك أكثر من 400 تدوينة تضيف
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=301&max-results=100
+/atom.xml?redirect=false&start-index=401&max-results=100
+/atom.xml?redirect=false&start-index=501&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+في حالة عندك مشاركات او تدوينات في موقعك أكثر من 500 تدوينة تضيف
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=301&max-results=100
+/atom.xml?redirect=false&start-index=401&max-results=100
+/atom.xml?redirect=false&start-index=501&max-results=100
+/atom.xml?redirect=false&start-index=601&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+===========================================================
+في حالة عندك مشاركات او تدوينات في موقعك أكثر من 600 تدوينة تضيف
+/atom.xml?redirect=false&start-index=1&max-results=100
+/atom.xml?redirect=false&start-index=101&max-results=100
+/atom.xml?redirect=false&start-index=201&max-results=100
+/atom.xml?redirect=false&start-index=301&max-results=100
+/atom.xml?redirect=false&start-index=401&max-results=100
+/atom.xml?redirect=false&start-index=501&max-results=100
+/atom.xml?redirect=false&start-index=601&max-results=100
+/atom.xml?redirect=false&start-index=701&max-results=100
+/atom.xml?redirect=false&start-index=1&max-results=500
+/rss.xml
+/feeds/posts/default
+/atom.xml
+/sitemap.xml  or  /sitemap.xml?page=1
+
+
+
+
+youtube: https://www.youtube.com/watch?v=Sj_74rzZL2g
